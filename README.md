@@ -3,4 +3,5 @@
     When you want to attack someone with many attackers and they also have many defenders, 
     instead of rolling the dice for like 50 times,
     you just use this so that you can quickly get the turn over and finish your attack. 
-* This was made in html so that it is easy to set up and access anywhere.
+* This was made in html on codepen so that it is easy to set up and access anywhere.
+* Access codepen at https://codepen.io/lovehela/pen/NVMdoR
